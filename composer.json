@@ -1,0 +1,32 @@
+{
+  "name": "simpsyst/improve",
+  "description": "Improve makes it easy to bookmark your site tags, open graph and twitter card",
+  "keywords": [
+    "SimpSyst",
+    "Diego Matos",
+    "SEO",
+    "SMO",
+    "Meta Tags",
+    "Open Graph",
+    "Twitter Card",
+    "Facebook Tags"
+  ],
+  "homepage": "http://www.diegomatos.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Diego Matos",
+      "email": "oi@diegomatos.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.2",
+    "ext-simplexml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "SimpSyst\\Improve\\": "src"
+    }
+  }
+}
