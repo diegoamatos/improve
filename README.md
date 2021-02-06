@@ -33,13 +33,13 @@ SimpSyst é um conjunto de pequenos e otimizados componentes PHP para tarefas co
 improve is available via Composer:
 
 ```bash
-"simpsyst/improve": "2.0.*"
+"simpsyst/improve": "dev-main"
 ```
 
 or run
 
 ```bash
-composer require simpsyst/improve
+composer require simpsyst/improve:dev-main
 ```
 
 ## Documentation
